@@ -1,7 +1,5 @@
-Gemfile.lock
-embedly.gemspec
+*.gem
 pkg/
 rdoc/
 doc/
 .yardoc/
-
